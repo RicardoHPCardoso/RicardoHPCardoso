@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=180&section=header&text=Ricardo%20Cardoso&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Indaiatuba%20%C2%B7%20SP&descAlignY=58&descSize=18" />
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Full+Stack+em+forma%C3%A7%C3%A3o;Estudando+Linux%2C+Cloud+e+DevOps;Atleta+de+v%C3%B4lei+universit%C3%A1rio" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Dev+Full+Stack+em+forma%C3%A7%C3%A3o; alt="Typing SVG" />
   <br/>
   <img src="https://komarev.com/ghpvc/?username=RicardoHPCardoso&color=2563eb&style=flat&label=Visualiza%C3%A7%C3%B5es" alt="Visualizações do perfil" />
 </div>
